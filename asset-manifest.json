@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/onlineYoga/static/css/main.b4ff1958.css",
+    "main.js": "/onlineYoga/static/js/main.00c434a6.js",
+    "index.html": "/onlineYoga/index.html",
+    "main.b4ff1958.css.map": "/onlineYoga/static/css/main.b4ff1958.css.map",
+    "main.00c434a6.js.map": "/onlineYoga/static/js/main.00c434a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4ff1958.css",
+    "static/js/main.00c434a6.js"
+  ]
+}
